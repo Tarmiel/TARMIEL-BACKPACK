@@ -8,7 +8,7 @@ Click on the file in the repository, or if you prefer, clone the repository with
 
 ```bash
 
-git clone https://github.com/Tarmiel/TARMIEL-BACKPACK/
+git clone https://github.com/Tarmiel/BKP-C
 
 ```
 </h4>
